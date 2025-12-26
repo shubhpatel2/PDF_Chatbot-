@@ -1,4 +1,4 @@
-#PDF RAG Chatbot
+# PDF RAG Chatbot
 A simple and efficient Chatbot that uses Retrieval-Augmented Generation (RAG) to answer questions based on your uploaded PDF files. It uses the Groq API for lightning-fast responses.
 
 ✨ Features
